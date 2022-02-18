@@ -1,0 +1,4 @@
+let popuInicialInfectada, quantiDeTransmissao
+let tempoDecorrid
+
+let infectados
